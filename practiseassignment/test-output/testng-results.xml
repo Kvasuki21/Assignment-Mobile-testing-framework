@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="120897" started-at="2021-04-06T18:08:34Z" finished-at="2021-04-06T18:10:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="120897" started-at="2021-04-06T18:08:34Z" finished-at="2021-04-06T18:10:34Z">
+      <class name="Appium.practiseassignment.Demo">
+        <test-method status="PASS" signature="bt()[pri:0, instance:Appium.practiseassignment.Demo@52a86356]" name="bt" is-config="true" duration-ms="3020" started-at="2021-04-06T23:38:34Z" finished-at="2021-04-06T23:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Appium.practiseassignment.Demo@52a86356]" name="test" duration-ms="46323" started-at="2021-04-06T23:38:37Z" finished-at="2021-04-06T23:39:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Appium.practiseassignment.Demo@52a86356]" name="test1" duration-ms="26417" started-at="2021-04-06T23:39:23Z" finished-at="2021-04-06T23:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Appium.practiseassignment.Demo@52a86356]" name="test2" duration-ms="19152" started-at="2021-04-06T23:39:49Z" finished-at="2021-04-06T23:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:Appium.practiseassignment.Demo@52a86356]" name="test3" duration-ms="4826" started-at="2021-04-06T23:40:08Z" finished-at="2021-04-06T23:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:Appium.practiseassignment.Demo@52a86356]" name="test4" duration-ms="21140" started-at="2021-04-06T23:40:13Z" finished-at="2021-04-06T23:40:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- Appium.practiseassignment.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
